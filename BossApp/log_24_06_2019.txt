@@ -1,0 +1,198 @@
+Got a response from salesforce, Number of records found - 14
+*** Starting a new loop - Salesforce ID - a0n9E000002kjG7QAI ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-224
+Going to transition now
+{"issueId":"RBX-224","transition":{"id":"11"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002kjGHQAY ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-225
+Going to transition now
+{"issueId":"RBX-225","transition":{"id":"191"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002kjGlQAI ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-226
+Going to transition now
+{"issueId":"RBX-226","transition":{"id":"191"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002kjGqQAI ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-227
+Going to transition now
+{"issueId":"RBX-227","transition":{"id":"181"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002kjGvQAI ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-228
+Going to transition now
+{"issueId":"RBX-228","transition":{"id":"181"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002kjH5QAI ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-229
+Going to transition now
+{"issueId":"RBX-229","transition":{"id":"181"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002kjHAQAY ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-230
+Going to transition now
+{"issueId":"RBX-230","transition":{"id":"191"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002kjHFQAY ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-231
+Going to transition now
+{"issueId":"RBX-231","transition":{"id":"191"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002kjHjQAI ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-232
+Going to transition now
+{"issueId":"RBX-232","transition":{"id":"11"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002kjJlQAI ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-233
+Going to transition now
+{"issueId":"RBX-233","transition":{"id":"11"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002kjJqQAI ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-234
+Going to transition now
+{"issueId":"RBX-234","transition":{"id":"11"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002zOI2QAM ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-235
+Going to transition now
+{"issueId":"RBX-235","transition":{"id":"191"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E000002zQtRQAU ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-236
+Going to transition now
+{"issueId":"RBX-236","transition":{"id":"191"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+*** Starting a new loop - Salesforce ID - a0n9E0000030LZ4QAM ***
+Step 1
+Step 2
+Record already exists in JIRA - moving to the next step.
+Step 3
+Issue updated successfully
+Step 4
+issue id - RBX-637
+Going to transition now
+{"issueId":"RBX-637","transition":{"id":"11"}}
+Transition executed
+Issue transitioned successfully
+-----DONE-----
+
+Number of Records Processes 14
